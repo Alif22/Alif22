@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alif22
+- 🌱 I’m currently learning software engineering at MMU Cyberjaya, Malaysia
+- 💞️ I’m looking to learn on how and what I can achieve with Github
+- 📫 Reach me by email me at alhaikal22@gmail.com
